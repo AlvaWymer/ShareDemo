@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Alipay-Core-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5d77ccf68f8d171aca386ba7b47f75f03b20a279">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Alipay-Core-2.7.10_57b6699b2e0f20b241a8341a920b9f91ca109c56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Instagram-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="503b081180daace77f1d89f46b54aea8f050fc8f">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Instagram-2.7.10_e96533f7d8930c1b8989866f64c4554bf1cba1cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/MobTools-2016.1107.1809.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="51ab3d9199c3df198ba8fedb2916027f283676d6">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/MobTools-2016.1107.1809_f3b2f1c73be8023d7f2272a8a6e0bcb55d8d1d54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Tumblr-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="85f3f9711abd516c8d21ea4c6bf2cd59147c4020">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Tumblr-2.7.10_e5f0009136bbc0a6219654ec74b625bd8069a2a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ed7e0853a621ab398ac75cdbe2833e7d26e95efb">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fc42c9eb47f58570717b4dc4b580758a9149deb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Pocket-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1b9e60870b34c799c530c96a6b6007d810bae8d0">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Pocket-2.7.10_aca8183801ba2a237e3b02594e94ec378d22f108/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/MobCommons-2016.1107.1809.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="978446ee83b82106e7d859832e4e3440101bda5a">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/MobCommons-2016.1107.1809_286039d70a9f8f8822d4bbc148854e09cc2c5b1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Yixin-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="689e51fd8e12f60c9d912ba183b85769481e7c19">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Yixin-2.7.10_05d8da1e1748b177194a585c2a7381663cff90d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Renren-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ff7d4322fa34f4a125935ab0f9291c5a5b862f60">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Renren-2.7.10_b0d6e4a9a619dce9436fb3939feb1882c2b13a4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Douban-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e73a9cf9102bf439fa345b06e5fbdde3e1246132">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Douban-2.7.10_64c4f43f5a67d5e6ba4c1d6bffcd319554fd12f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-QQ-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5d3ffc9c4c2743fcc83b3333f77fc252fb146889">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-QQ-2.7.10_1701f9e1f8ff9feab060f93414211e88a1681179/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Alipay-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="564ed74723bf716338b2b43c1dabe2a99702c271">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Alipay-2.7.10_f0e174593b424b426db106afda4966ba35692874/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Linkedin-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="994f7cbf6ea4ef3c0fbbded655b412c15933fb88">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Linkedin-2.7.10_8e2a3758ff06dbec540f59d2363895157081d6ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Dropbox-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9f220150a075004b370ad015f954b2e36327777b">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Dropbox-2.7.10_0ec1fb095e6c6ee2bc5faa07858cbb7b0df537d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-VKontakte-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3b7344f083ed06f3fb6bbf4709c20a62aba9cf15">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-VKontakte-2.7.10_3cf0dde131206b4132f20610841c534235ff6272/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-QZone-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="158eb0f8525584008bfc92c2c6a4841174133a0a">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-QZone-2.7.10_978384006cc1b433e5101b09a4b62b0a1bad5b21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Yixin-Moments-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="93a947698ebb1c2da63007d6d3418abb3de7329a">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Yixin-Moments-2.7.10_52c04ce8e5688e222cabe2ea7e0633142f0d09cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Facebook-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="59d0088bf089e5b659e25d328ab6f4dbf01576d4">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Facebook-2.7.10_eec8eed4f7a1c465c269f0ca65fcee3205949f62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-WhatsApp-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c4cd2f25fd980e932908480e8a7f1032dbc00000">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-WhatsApp-2.7.10_3c5a7da8c6bfc697a58eca9f3f357eee74a79fea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Wechat-Core-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a720ef31ac89904b603fb2a27c01bb21a951fcad">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Wechat-Core-2.7.10_b60930a06fdb2a51aba954fcae918185554a2259/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-FacebookMessenger-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2bc5cfa7a4d44dccc4bfab1b58e51e0dee567806">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-FacebookMessenger-2.7.10_589f943e3a7c9f1fdd537ea4a7f52ab9b705be78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Wechat-Moments-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a8357a3810c2e5bbb6274042a1508bac87759c5f">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Wechat-Moments-2.7.10_953c2c59af4c8c8a079a61083a6081f01c9fe8d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Wechat-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b9e12f2d8a6f01dce27c65ce3b93bccd46e7ffd4">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Wechat-2.7.10_c3c393b041f85bbc3bf7e6fcd82bbd56ad0d7d75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Yixin-Core-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="48913f532b7be264e9d48b11f22dfaeb391a7040">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Yixin-Core-2.7.10_3ab9c022acfd46f910eb6ea5beceebdd1dd4eead/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-KakaoStory-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a48b6fb53b9aae4dda22e867815e9cb556df6163">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-KakaoStory-2.7.10_59d90d4d95ddd8d020a8df97df362439dbf2b788/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Alipay-Moments-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="21f42a3bf9d6f5fc089bc2df13dfdc9a17cc33f3">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Alipay-Moments-2.7.10_150a794110eea1075dfc6a6673cf67c243ffacb5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Mingdao-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6a0f6e47eff80c88dd4f33d485e30fae969a129c">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Mingdao-2.7.10_b88755bdf9ee01850ae94e0488355c3f12e85a78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Core-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a7e5f9da3635eb8d89b8a9a22cd68cd64cca9104">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Core-2.7.10_0aefe1a329c559d503162546c10e9d8ed2b28d1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Kakao-Core-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3550660fca2600047b942d502b82c44a9a9def89">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Kakao-Core-2.7.10_8592f6d4d661000aea50dd38f9a29217893086f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-TencentWeibo-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f391083f803101456937234584e5523d2ccfb909">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-TencentWeibo-2.7.10_747d57e6080340dca09201d6fdb72e11fd3e61ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Wechat-Favorite-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f30192f55e1113b13b6ac5204bbcc19e203b4160">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Wechat-Favorite-2.7.10_88f33d0d036bc48b2c9f850c2a21d7c1e16c4a7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-ShortMessage-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3763b7bcafdd71a9d48b92be6f2bec532be8a88f">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-ShortMessage-2.7.10_8a6aae9e10d1ad139a4cff2ae2c8804f8f6161ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-KakaoTalk-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c70e8cfa2a44ba8ff1d021b50025bbacb31875a">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-KakaoTalk-2.7.10_ba8700d512fa3a257c6732356b559b05868b43b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Twitter-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6984fa7bcd1a42ea927cb88845340cf629cee7ca">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Twitter-2.7.10_4a67195b3a05d802dd4eda2bc66d82bc57f66c0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Flickr-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a77e4669d7fe78fcde115136ad0e3b7da79e93c3">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Flickr-2.7.10_d861ff5ce17b0f47f8eb66aa4004348d4aa18199/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0b21e8fcfc930c5423db0cf05ca7737c59547c65">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_865dbddf94307f0fc97eea6a5d711dfc67ec2c2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Line-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d33547644fd680ec96607e29d7f45ba25464ba38">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Line-2.7.10_8f5aef9c6c20d2ebdabbccc1d8a7c0d85799743a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-GooglePlus-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="98172e38756598b7abad150f134c0528bd7537b6">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-GooglePlus-2.7.10_2d86ce513c525ef521ba400fffe371494e85baa6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Foursquare-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9a8230303fae9007c0ae5ccbaad336c0112652b8">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Foursquare-2.7.10_79ba6a89ad067979471d37ec561a8443fb43d14a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Pinterest-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="814f3a2fd1669f837f5c6aed833cae78578728aa">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Pinterest-2.7.10_f0fb19b6c60d53aedc68bf951ea378635e66dadb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-SinaWeibo-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="52574245a489f42699687ba9038c8c803a8e8bcf">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-SinaWeibo-2.7.10_023ad9b34c74f069b49017d159d13c9b3effa4b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Instapaper-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="64ee87e868c952a0867db83cb8aed2fd8e968249">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Instapaper-2.7.10_5e1573c92d718d3d39d5a611b104d58145eeeeb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Evernote-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0621ad493330a36fdc39bead7311c1edac34a257">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Evernote-2.7.10_84ea1b9c8d64e1d5b75c15123703f0a9c12dc055/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-YouDao-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9b77839ec80ebc1a92a3c8fd76bb6e465c9ebc15">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-YouDao-2.7.10_5c08160dbb23924af4599646eb013d99905e447e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-Email-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="150a66e246682e5b95e468d56ffdc0eb6c8d9c01">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Email-2.7.10_b61c80aa52fa8582e4f18d8e8d21ff6197f5707d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/libs/ShareSDK-KaiXin-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="cd2d2f1b9fad9416a7989375db9aa9901120bdf1">
+        <dex dex="/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-KaiXin-2.7.10_a77d9c7f90e2c435aca0cc8b7eb1896df22508dc/classes.dex" />
+    </item>
+
+</items>

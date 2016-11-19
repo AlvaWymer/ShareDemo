@@ -1,0 +1,7 @@
+#Fri Nov 18 00:44:39 CET 2016
+base.0=/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_865dbddf94307f0fc97eea6a5d711dfc67ec2c2c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fc42c9eb47f58570717b4dc4b580758a9149deb4/classes.dex
+base.1=/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fc42c9eb47f58570717b4dc4b580758a9149deb4
+file.0=/Users/paul/Desktop/anzhuo /v2.7.10/ShareSDK for Android Sample/ShareDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_865dbddf94307f0fc97eea6a5d711dfc67ec2c2c/classes.dex
